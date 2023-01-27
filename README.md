@@ -1,3 +1,3 @@
 # Wezterm
 
-我的wezterm 配置。。。
+我的 wezterm 配置。。。
